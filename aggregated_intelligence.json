@@ -1,0 +1,214 @@
+{
+  "expo_info": {
+    "name": "AHR Expo 2026",
+    "location": "Las Vegas Convention Center, Las Vegas, NV",
+    "dates": "February 2-3, 2026",
+    "total_emails_analyzed": 275,
+    "ahr_related_emails": 135
+  },
+  "broker_activities": [
+    {
+      "broker": "KeyBanc Capital Markets",
+      "host": "Jeff Hammond",
+      "event_type": "Hosted Meetings",
+      "date": "Monday, February 2, 2026",
+      "schedule": [
+        {
+          "time": "10:00am-10:30am PST",
+          "company": "Modine Manufacturing (MOD)",
+          "booth": "C6107"
+        },
+        {
+          "time": "10:30am-11:00am PST",
+          "company": "A. O. Smith Corporation (AOS)",
+          "booth": "C3630"
+        },
+        {
+          "time": "11:00am-11:45am PST",
+          "company": "Rheem Manufacturing (Private)",
+          "booth": "TBD"
+        },
+        {
+          "time": "12:00pm-12:45pm PST",
+          "company": "Carrier Global Corporation (CARR)",
+          "booth": "C1717"
+        },
+        {
+          "time": "1:00pm-1:30pm PST",
+          "company": "Watts Water Technologies (WTS)",
+          "booth": "C3338"
+        },
+        {
+          "time": "2:00pm-2:40pm PST",
+          "company": "Trane Technologies (TT)",
+          "booth": "C4925"
+        }
+      ],
+      "additional_companies": [
+        {
+          "name": "Lennox International (LII)",
+          "booth": "C3618"
+        },
+        {
+          "name": "Watsco Inc. (WSO)",
+          "booth": "TBD"
+        }
+      ],
+      "notes": "Private hosted meetings at company booths. Invitation-only for institutional investors."
+    },
+    {
+      "broker": "Robert W. Baird",
+      "host": "Tim Wojs",
+      "event_type": "Booth Tours & Meetings",
+      "dates": "February 2-3, 2026",
+      "schedule": [
+        {
+          "time": "9:30am",
+          "day": "Monday",
+          "company": "AAON Inc.",
+          "activity": "Booth tour and management meeting"
+        },
+        {
+          "time": "11:00am",
+          "day": "Monday",
+          "company": "Modine Manufacturing",
+          "activity": "Booth tour and management meeting"
+        }
+      ],
+      "notes": "Walking booth tours with company management. Focus on new product showcases and regulatory updates."
+    },
+    {
+      "broker": "D.A. Davidson",
+      "event_type": "Hosted Meetings",
+      "date": "Monday, February 2, 2026",
+      "schedule": [
+        {
+          "time": "9:30am",
+          "company": "Various HVAC companies",
+          "activity": "Scheduled meetings"
+        }
+      ],
+      "notes": "Multiple hosted meetings throughout the day at the expo."
+    }
+  ],
+  "company_exhibitors": [
+    {
+      "name": "Modine Manufacturing Company",
+      "ticker": "MOD",
+      "booth": "C6107",
+      "activities": [
+        "KeyBanc hosted meeting - Monday 10:00am-10:30am PST",
+        "Baird booth tour - Monday 11:00am"
+      ],
+      "focus": "HVAC solutions, thermal management systems"
+    },
+    {
+      "name": "A. O. Smith Corporation",
+      "ticker": "AOS",
+      "booth": "C3630",
+      "activities": [
+        "KeyBanc hosted meeting - Monday 10:30am-11:00am PST"
+      ],
+      "focus": "Water heating and treatment solutions"
+    },
+    {
+      "name": "Carrier Global Corporation",
+      "ticker": "CARR",
+      "booth": "C1717",
+      "activities": [
+        "KeyBanc hosted meeting - Monday 12:00pm-12:45pm PST"
+      ],
+      "focus": "HVAC, refrigeration, fire & security solutions"
+    },
+    {
+      "name": "Watts Water Technologies",
+      "ticker": "WTS",
+      "booth": "C3338",
+      "activities": [
+        "KeyBanc hosted meeting - Monday 1:00pm-1:30pm PST"
+      ],
+      "focus": "Water quality and flow control products"
+    },
+    {
+      "name": "Trane Technologies",
+      "ticker": "TT",
+      "booth": "C4925",
+      "activities": [
+        "KeyBanc hosted meeting - Monday 2:00pm-2:40pm PST"
+      ],
+      "focus": "Climate control solutions, HVAC systems"
+    },
+    {
+      "name": "Lennox International",
+      "ticker": "LII",
+      "booth": "C3618",
+      "activities": [
+        "KeyBanc meeting scheduled"
+      ],
+      "focus": "Residential and commercial HVAC systems"
+    },
+    {
+      "name": "Watsco Inc.",
+      "ticker": "WSO",
+      "booth": "TBD",
+      "activities": [
+        "KeyBanc meeting scheduled"
+      ],
+      "focus": "HVAC distribution, largest distributor in North America"
+    },
+    {
+      "name": "AAON Inc.",
+      "ticker": "AAON",
+      "booth": "TBD",
+      "activities": [
+        "Baird booth tour - Monday 9:30am",
+        "D.A. Davidson coverage"
+      ],
+      "focus": "Commercial HVAC equipment manufacturer"
+    },
+    {
+      "name": "Rheem Manufacturing",
+      "ticker": "Private",
+      "booth": "TBD",
+      "activities": [
+        "KeyBanc hosted meeting - Monday 11:00am-11:45am PST"
+      ],
+      "focus": "Water heating, HVAC equipment"
+    }
+  ],
+  "key_themes": [
+    {
+      "theme": "2026 Regulatory Updates",
+      "description": "Multiple brokers highlighting new HVAC regulations and efficiency standards for 2026",
+      "relevant_companies": [
+        "MOD",
+        "CARR",
+        "TT",
+        "LII"
+      ]
+    },
+    {
+      "theme": "Booth Tours vs. Private Meetings",
+      "description": "KeyBanc hosting private 1-on-1 meetings at booths; Baird conducting walking tours with management",
+      "format": "Different broker engagement strategies"
+    },
+    {
+      "theme": "Institutional Investor Focus",
+      "description": "All broker events are invitation-only for institutional investors and analysts",
+      "access": "Pre-scheduled, not open to general attendees"
+    }
+  ],
+  "logistics": {
+    "venue": "Las Vegas Convention Center",
+    "dates": "February 2-3, 2026 (Monday-Tuesday)",
+    "booth_locations": {
+      "C1717": "Carrier (CARR)",
+      "C3338": "Watts Water (WTS)",
+      "C3618": "Lennox (LII)",
+      "C3630": "A. O. Smith (AOS)",
+      "C4925": "Trane Technologies (TT)",
+      "C6107": "Modine (MOD)"
+    },
+    "timezone_note": "Meeting times listed in PST (Pacific Standard Time)"
+  }
+}
