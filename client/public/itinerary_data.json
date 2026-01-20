@@ -1,0 +1,643 @@
+{
+  "event": {
+    "name": "AHR Expo 2026",
+    "location": "Las Vegas Convention Center",
+    "dates": "February 2-3, 2026",
+    "venue": "Central & South Halls"
+  },
+  "brokers": [
+    {
+      "id": "keybanc",
+      "name": "KeyBanc",
+      "color": "#D4A017",
+      "analysts": [
+        "Jeff Hammond"
+      ],
+      "focus": "Private meetings with HVAC companies",
+      "insights": "Hosting 6 back-to-back private meetings on Monday. Focus on regulatory updates and 2026 outlook."
+    },
+    {
+      "id": "baird",
+      "name": "Baird",
+      "color": "#22c55e",
+      "analysts": [
+        "Tim Wojs"
+      ],
+      "focus": "Booth tours across multiple exhibitors with executive access",
+      "insights": "Comprehensive booth tour schedule with 8 events across Monday and Tuesday. Strong focus on data center cooling (MOD, AAON) and HVAC OEMs. Notable executive access including Rheem C-suite and SPXC CEO. Contact: Tim Wojs (TWojs@rwbaird.com, 414-298-5009)"
+    },
+    {
+      "id": "davidson",
+      "name": "DA Davidson",
+      "color": "#f97316",
+      "analysts": [
+        "Brent Thielman"
+      ],
+      "focus": "Targeted company meetings",
+      "insights": "Focused meetings with AAON and Modine. Emphasis on data center cooling opportunities."
+    },
+    {
+      "id": "william_blair",
+      "name": "William Blair",
+      "color": "#1e3a5f",
+      "analysts": [
+        "Ryan Merkel",
+        "Michael Francis"
+      ],
+      "sales": [
+        "Michaela Escobar"
+      ],
+      "focus": "Executive meetings and booth tours",
+      "insights": "Full day of activities including breakfast with Acuity CFO, lunch with Lennox CEO, and comprehensive booth tours. Strong executive access."
+    }
+  ],
+  "companies": [
+    {
+      "ticker": "AAON",
+      "name": "AAON Inc",
+      "booth": "C6107",
+      "segment": "Commercial HVAC",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Premium commercial rooftop HVAC units and data center cooling. Known for customization, quality, and made-in-USA manufacturing. Growing data center exposure through BASX acquisition.",
+      "valueProp": "High-efficiency, customizable rooftop units with industry-leading quality. Strong positioning in data center cooling market.",
+      "marketCap": "$8.2B",
+      "keyProducts": [
+        "Rooftop Units",
+        "Data Center Cooling",
+        "Air Handlers"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "AOS",
+      "name": "A.O. Smith",
+      "booth": "C2529",
+      "segment": "Water Heating",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Global leader in residential and commercial water heating. Strong brand portfolio including A.O. Smith, State, and Lochinvar. Significant China exposure.",
+      "valueProp": "Market leader in water heating with strong brand recognition. Beneficiary of electrification trends (heat pump water heaters).",
+      "marketCap": "$11.5B",
+      "keyProducts": [
+        "Water Heaters",
+        "Boilers",
+        "Heat Pump Water Heaters"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "CARR",
+      "name": "Carrier Global",
+      "booth": "C2917",
+      "segment": "HVAC / Refrigeration",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Global HVAC and refrigeration leader. Recently divested Fire & Security and acquired Viessmann Climate Solutions. Focus on sustainable building solutions.",
+      "valueProp": "Scale leader in commercial HVAC. Strong heat pump positioning through Viessmann. Global distribution network.",
+      "marketCap": "$58B",
+      "keyProducts": [
+        "Commercial HVAC",
+        "Residential HVAC",
+        "Refrigeration",
+        "Heat Pumps"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "LII",
+      "name": "Lennox International",
+      "booth": "C3019",
+      "segment": "Residential HVAC",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Leading residential HVAC manufacturer with strong dealer network. Premium brand positioning with focus on energy efficiency and indoor air quality.",
+      "valueProp": "Premium residential HVAC with industry-leading dealer loyalty program. Strong margins and consistent execution.",
+      "marketCap": "$21B",
+      "keyProducts": [
+        "Residential AC",
+        "Furnaces",
+        "Heat Pumps",
+        "Indoor Air Quality"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "MOD",
+      "name": "Modine Manufacturing",
+      "booth": "C3630",
+      "segment": "Thermal Management",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Thermal management solutions for data centers, commercial vehicles, and HVAC. Pivoting from legacy auto to high-growth data center cooling.",
+      "valueProp": "Data center thermal management leader. Strong growth from hyperscaler demand. Successful portfolio transformation.",
+      "marketCap": "$5.8B",
+      "keyProducts": [
+        "Data Center Cooling",
+        "Heat Exchangers",
+        "HVAC Coils"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "TT",
+      "name": "Trane Technologies",
+      "booth": "C1717",
+      "segment": "Commercial HVAC",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Global climate innovation leader. Trane and American Standard brands. Strong commercial HVAC and transport refrigeration. ESG leader.",
+      "valueProp": "Premium commercial HVAC with strong service revenue. Industry leader in sustainability and decarbonization solutions.",
+      "marketCap": "$85B",
+      "keyProducts": [
+        "Commercial HVAC",
+        "Residential HVAC",
+        "Transport Refrigeration"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "WTS",
+      "name": "Watts Water Technologies",
+      "booth": "C3338",
+      "segment": "Plumbing / Flow Control",
+      "stackPosition": "Components / Parts",
+      "tldr": "Plumbing, flow control, and water quality products. Strong in commercial construction. Growing connected products portfolio.",
+      "valueProp": "Essential plumbing and flow control components. Beneficiary of water quality and safety regulations.",
+      "marketCap": "$6.8B",
+      "keyProducts": [
+        "Valves",
+        "Flow Control",
+        "Water Quality",
+        "Drainage"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "Rheem",
+      "name": "Rheem Manufacturing",
+      "booth": "C1919",
+      "segment": "HVAC / Water Heating",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Private company. Major residential HVAC and water heating manufacturer. Brands include Rheem, Ruud, and Richmond. Strong contractor relationships.",
+      "valueProp": "Full-line residential HVAC and water heating. Strong distribution and contractor network. Private company competitor to public peers.",
+      "marketCap": "Private",
+      "keyProducts": [
+        "Residential HVAC",
+        "Water Heaters",
+        "Pool Heaters"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "SPXC",
+      "name": "SPX Technologies",
+      "booth": "C3307",
+      "segment": "HVAC / Detection",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Diversified industrial. HVAC segment includes cooling towers and heating products. Detection segment serves life safety markets.",
+      "valueProp": "Niche HVAC products (cooling towers, boilers) with strong market positions. Growing detection/life safety business.",
+      "marketCap": "$7.2B",
+      "keyProducts": [
+        "Cooling Towers",
+        "Boilers",
+        "Detection Systems"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "DAIKIN",
+      "name": "Daikin Industries",
+      "booth": "C1717",
+      "segment": "HVAC",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Japanese multinational. World's largest HVAC company by revenue. Owns Goodman (US residential) and AAF (air filtration). VRF technology leader.",
+      "valueProp": "Global scale leader. VRF technology pioneer. Strong US presence through Goodman acquisition. Vertically integrated (compressors).",
+      "marketCap": "$55B (JPY)",
+      "keyProducts": [
+        "VRF Systems",
+        "Residential HVAC",
+        "Commercial HVAC",
+        "Air Filtration"
+      ],
+      "notes": ""
+    },
+    {
+      "ticker": "AYI",
+      "name": "Acuity Brands",
+      "booth": "C1646",
+      "segment": "Lighting / Building Tech",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Leading lighting and building management solutions. Growing Intelligent Spaces segment with controls and IoT. Strong commercial/industrial lighting.",
+      "valueProp": "Lighting leader transitioning to building technology. Growing software and controls revenue. Strong margins.",
+      "marketCap": "$8.5B",
+      "keyProducts": [
+        "Commercial Lighting",
+        "Building Controls",
+        "IoT Solutions"
+      ],
+      "notes": "Distech Controls booth tour with Baird"
+    },
+    {
+      "ticker": "CSWI",
+      "name": "CSW Industrials",
+      "booth": "C2944",
+      "segment": "Industrial Products",
+      "stackPosition": "OEM / Manufacturer",
+      "tldr": "Diversified industrial growth company. RectorSeal brand serves HVAC/R contractors with sealants, chemicals, and tools. Strong distribution network.",
+      "valueProp": "Leading provider of specialty products for HVAC/R contractors. Strong brand recognition with RectorSeal. Consistent growth through M&A.",
+      "marketCap": "$4.5B",
+      "keyProducts": [
+        "HVAC Sealants",
+        "Refrigerant Chemicals",
+        "Contractor Tools",
+        "Firestop Products"
+      ],
+      "notes": ""
+    }
+  ],
+  "conestogaTeam": [
+    {
+      "id": "john",
+      "name": "John",
+      "role": "Partner, Investment Analyst",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "ted",
+      "name": "Ted",
+      "role": "Partner, Investment Analyst",
+      "color": "#8b5cf6"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "wb1",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "8:30 AM",
+      "endTime": "9:30 AM",
+      "ticker": "AYI",
+      "company": "Acuity Brands",
+      "broker": "william_blair",
+      "type": "breakfast",
+      "host": "Ryan Merkel",
+      "location": "Sid's Caf\u00e9 - Westgate",
+      "booth": null,
+      "notes": "Breakfast with Karen Holcom (CFO)",
+      "assignedTo": null
+    },
+    {
+      "id": "dad1",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "10:30 AM",
+      "endTime": "11:00 AM",
+      "ticker": "AAON",
+      "company": "AAON Inc",
+      "broker": "davidson",
+      "type": "meeting",
+      "host": "Brent Thielman",
+      "location": "Booth C6107",
+      "booth": "C6107",
+      "notes": "Focus on data center cooling",
+      "assignedTo": null
+    },
+    {
+      "id": "wb2",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "11:30 AM",
+      "endTime": "1:00 PM",
+      "ticker": "LII",
+      "company": "Lennox International",
+      "broker": "william_blair",
+      "type": "lunch",
+      "host": "Ryan Merkel",
+      "location": "Ferraro's Italian Restaurant",
+      "booth": null,
+      "notes": "Lunch with Alok Maskara (CEO)",
+      "assignedTo": null
+    },
+    {
+      "id": "dad2",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "11:30 AM",
+      "endTime": "12:00 PM",
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "broker": "davidson",
+      "type": "meeting",
+      "host": "Brent Thielman",
+      "location": "Booth C3630",
+      "booth": "C3630",
+      "notes": "Data center thermal management",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_ayi",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "12:30 PM",
+      "endTime": "1:15 PM",
+      "ticker": "AYI",
+      "company": "Distech Controls (Acuity Brands)",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #1646",
+      "booth": "C1646",
+      "notes": "Management in Attendance: TBD",
+      "assignedTo": null
+    },
+    {
+      "id": "wb3",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "1:00 PM",
+      "endTime": "1:30 PM",
+      "ticker": "SPXC",
+      "company": "SPX Technologies",
+      "broker": "william_blair",
+      "type": "booth_tour",
+      "host": "Ryan Merkel",
+      "location": "Booth C3307",
+      "booth": "C3307",
+      "notes": null,
+      "assignedTo": null
+    },
+    {
+      "id": "kb1",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "1:00 PM",
+      "endTime": "1:30 PM",
+      "ticker": "WTS",
+      "company": "Watts Water Technologies",
+      "broker": "keybanc",
+      "type": "meeting",
+      "host": "Jeff Hammond",
+      "location": "Booth C3338",
+      "booth": "C3338",
+      "notes": "Private meeting",
+      "travelTime": "4 min from C1717",
+      "assignedTo": null
+    },
+    {
+      "id": "wb4",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "1:30 PM",
+      "endTime": "2:00 PM",
+      "ticker": "DAIKIN",
+      "company": "Daikin Industries",
+      "broker": "william_blair",
+      "type": "booth_tour",
+      "host": "Ryan Merkel",
+      "location": "Booth C1717",
+      "booth": "C1717",
+      "notes": null,
+      "assignedTo": null
+    },
+    {
+      "id": "kb2",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "1:30 PM",
+      "endTime": "2:00 PM",
+      "ticker": "TT",
+      "company": "Trane Technologies",
+      "broker": "keybanc",
+      "type": "meeting",
+      "host": "Jeff Hammond",
+      "location": "Booth C1717",
+      "booth": "C1717",
+      "notes": "Private meeting",
+      "travelTime": "5 min from C3338",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_mod_mon",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "1:30 PM",
+      "endTime": "2:00 PM",
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #6107",
+      "booth": "C6107",
+      "notes": "Management: Arthur Laszlo, Group VP Global Data Centers",
+      "assignedTo": null
+    },
+    {
+      "id": "wb5",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "2:00 PM",
+      "endTime": "2:30 PM",
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "broker": "william_blair",
+      "type": "booth_tour",
+      "host": "Ryan Merkel",
+      "location": "Booth C3630",
+      "booth": "C3630",
+      "notes": null,
+      "assignedTo": null
+    },
+    {
+      "id": "kb3",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "2:00 PM",
+      "endTime": "2:30 PM",
+      "ticker": "CARR",
+      "company": "Carrier Global",
+      "broker": "keybanc",
+      "type": "meeting",
+      "host": "Jeff Hammond",
+      "location": "Booth C2917",
+      "booth": "C2917",
+      "notes": "Private meeting",
+      "travelTime": "6 min from C1717",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_spxc",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "2:00 PM",
+      "endTime": "2:30 PM",
+      "ticker": "SPXC",
+      "company": "SPX Technologies",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #3307",
+      "booth": "C3307",
+      "notes": "Management: Mark Carano, CEO",
+      "assignedTo": null
+    },
+    {
+      "id": "wb6",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "2:30 PM",
+      "endTime": "3:00 PM",
+      "ticker": "AAON",
+      "company": "AAON Inc",
+      "broker": "william_blair",
+      "type": "booth_tour",
+      "host": "Ryan Merkel",
+      "location": "Booth C6107",
+      "booth": "C6107",
+      "notes": null,
+      "assignedTo": null
+    },
+    {
+      "id": "kb4",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "2:30 PM",
+      "endTime": "3:00 PM",
+      "ticker": "LII",
+      "company": "Lennox International",
+      "broker": "keybanc",
+      "type": "meeting",
+      "host": "Jeff Hammond",
+      "location": "Booth C3019",
+      "booth": "C3019",
+      "notes": "Private meeting",
+      "travelTime": "3 min from C2917",
+      "assignedTo": null
+    },
+    {
+      "id": "wb7",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "3:00 PM",
+      "endTime": "3:30 PM",
+      "ticker": "CARR",
+      "company": "Carrier Global",
+      "broker": "william_blair",
+      "type": "booth_tour",
+      "host": "Ryan Merkel",
+      "location": "Booth C2917",
+      "booth": "C2917",
+      "notes": null,
+      "assignedTo": null
+    },
+    {
+      "id": "kb5",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "3:00 PM",
+      "endTime": "3:30 PM",
+      "ticker": "AOS",
+      "company": "A.O. Smith",
+      "broker": "keybanc",
+      "type": "meeting",
+      "host": "Jeff Hammond",
+      "location": "Booth C2529",
+      "booth": "C2529",
+      "notes": "Private meeting",
+      "travelTime": "4 min from C3019",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_carr",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "3:00 PM",
+      "endTime": "3:45 PM",
+      "ticker": "CARR",
+      "company": "Carrier Global Corporation",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #3618",
+      "booth": "C3618",
+      "notes": "Management: Various general managers (*Sold Out*)",
+      "assignedTo": null
+    },
+    {
+      "id": "kb6",
+      "day": "monday",
+      "date": "2026-02-02",
+      "time": "3:30 PM",
+      "endTime": "4:00 PM",
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "broker": "keybanc",
+      "type": "meeting",
+      "host": "Jeff Hammond",
+      "location": "Booth C3630",
+      "booth": "C3630",
+      "notes": "Private meeting",
+      "travelTime": "5 min from C2529",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_aaon",
+      "day": "tuesday",
+      "date": "2026-02-03",
+      "time": "8:30 AM",
+      "endTime": "9:30 AM",
+      "ticker": "AAON",
+      "company": "AAON, Inc.",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Expo Lobby",
+      "booth": "Expo Lobby",
+      "notes": "Management in Attendance: TBD",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_tt",
+      "day": "tuesday",
+      "date": "2026-02-03",
+      "time": "10:15 AM",
+      "endTime": "10:55 AM",
+      "ticker": "TT",
+      "company": "Trane Technologies",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #3618",
+      "booth": "C3618",
+      "notes": "Management: Various general managers (*Sold Out*)",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_rheem",
+      "day": "tuesday",
+      "date": "2026-02-03",
+      "time": "11:00 AM",
+      "endTime": "11:45 AM",
+      "ticker": "Rheem",
+      "company": "Rheem Manufacturing",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #4925",
+      "booth": "C4925",
+      "notes": "Management: Chris Peel (CEO), Alex Houston (COO), Mike Branson (President of Global Air)",
+      "assignedTo": null
+    },
+    {
+      "id": "baird_cswi",
+      "day": "tuesday",
+      "date": "2026-02-03",
+      "time": "2:00 PM",
+      "endTime": "2:45 PM",
+      "ticker": "CSWI",
+      "company": "RectorSeal by CSW Industrials",
+      "broker": "baird",
+      "type": "booth_tour",
+      "host": "Tim Wojs",
+      "location": "Booth #2944",
+      "booth": "C2944",
+      "notes": "Management: James Perry (EVP & CEO), Alexa Huerta (VP IR & Treasurer), Jeff Underwood (President, RectorSeal)",
+      "assignedTo": null
+    }
+  ]
+}

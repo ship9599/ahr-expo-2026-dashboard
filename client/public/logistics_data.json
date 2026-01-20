@@ -1,0 +1,227 @@
+{
+  "event": {
+    "name": "AHR Expo 2026",
+    "location": "Las Vegas Convention Center",
+    "dates": ["Monday, February 2, 2026", "Tuesday, February 3, 2026"]
+  },
+  "schedule": {
+    "monday": [
+      {
+        "time": "9:30am",
+        "broker": "DA Davidson",
+        "ticker": "AAON",
+        "company": "AAON Inc.",
+        "booth": "TBD",
+        "type": "Meeting",
+        "duration": 30
+      },
+      {
+        "time": "10:00am",
+        "endTime": "10:30am",
+        "broker": "KeyBanc",
+        "ticker": "MOD",
+        "company": "Modine Manufacturing",
+        "booth": "C6107",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 30
+      },
+      {
+        "time": "10:30am",
+        "endTime": "11:00am",
+        "broker": "KeyBanc",
+        "ticker": "AOS",
+        "company": "A. O. Smith",
+        "booth": "C3630",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 30,
+        "travel": "5 min from C6107"
+      },
+      {
+        "time": "11:00am",
+        "broker": "Baird",
+        "ticker": "MOD",
+        "company": "Modine",
+        "booth": "C6107",
+        "host": "Tim Wojs",
+        "type": "Booth Tour",
+        "duration": 30
+      },
+      {
+        "time": "11:00am",
+        "endTime": "11:45am",
+        "broker": "KeyBanc",
+        "ticker": "Rheem",
+        "company": "Rheem Manufacturing",
+        "booth": "TBD",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 45
+      },
+      {
+        "time": "12:00pm",
+        "endTime": "12:45pm",
+        "broker": "KeyBanc",
+        "ticker": "CARR",
+        "company": "Carrier Global",
+        "booth": "C1717",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 45,
+        "travel": "7 min from previous"
+      },
+      {
+        "time": "1:00pm",
+        "endTime": "1:30pm",
+        "broker": "KeyBanc",
+        "ticker": "WTS",
+        "company": "Watts Water Technologies",
+        "booth": "C3338",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 30,
+        "travel": "4 min from C1717"
+      },
+      {
+        "time": "2:00pm",
+        "endTime": "2:40pm",
+        "broker": "KeyBanc",
+        "ticker": "TT",
+        "company": "Trane Technologies",
+        "booth": "C4925",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 40,
+        "travel": "6 min from C3338"
+      },
+      {
+        "time": "TBD",
+        "broker": "KeyBanc",
+        "ticker": "LII",
+        "company": "Lennox International",
+        "booth": "C3618",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 30
+      },
+      {
+        "time": "TBD",
+        "broker": "KeyBanc",
+        "ticker": "WSO",
+        "company": "Watsco Inc.",
+        "booth": "TBD",
+        "host": "Jeff Hammond",
+        "type": "Private Meeting",
+        "duration": 30
+      },
+      {
+        "time": "TBD",
+        "broker": "DA Davidson",
+        "ticker": "MOD",
+        "company": "Modine",
+        "booth": "C6107",
+        "type": "Meeting",
+        "duration": 30
+      },
+      {
+        "time": "TBD",
+        "broker": "William Blair",
+        "ticker": "Various",
+        "company": "Booth Tour",
+        "booth": "Multiple",
+        "type": "Booth Tour",
+        "duration": 60
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "TBD",
+        "broker": "Baird",
+        "ticker": "Various",
+        "company": "Booth Tours",
+        "booth": "Multiple",
+        "host": "Tim Wojs",
+        "type": "Booth Tours",
+        "duration": 120
+      }
+    ]
+  },
+  "brokers": [
+    {
+      "name": "KeyBanc",
+      "fullName": "KeyBanc Capital Markets",
+      "host": "Jeff Hammond",
+      "email": "peter.unruh@key.com",
+      "events": 8,
+      "day": "Monday, Feb 2",
+      "color": "#2563eb"
+    },
+    {
+      "name": "Baird",
+      "fullName": "Robert W. Baird",
+      "host": "Tim Wojs",
+      "events": 2,
+      "days": "Feb 2-3",
+      "color": "#16a34a"
+    },
+    {
+      "name": "DA Davidson",
+      "fullName": "D.A. Davidson",
+      "events": 2,
+      "day": "Monday, Feb 2",
+      "color": "#ea580c"
+    },
+    {
+      "name": "William Blair",
+      "fullName": "William Blair & Company",
+      "events": 1,
+      "day": "Monday, Feb 2",
+      "type": "Booth Tour",
+      "color": "#7c3aed"
+    }
+  ],
+  "booths": {
+    "C1717": {
+      "ticker": "CARR",
+      "company": "Carrier Global",
+      "meetings": ["KeyBanc 12:00pm"]
+    },
+    "C3338": {
+      "ticker": "WTS",
+      "company": "Watts Water Technologies",
+      "meetings": ["KeyBanc 1:00pm"]
+    },
+    "C3618": {
+      "ticker": "LII",
+      "company": "Lennox International",
+      "meetings": ["KeyBanc TBD"]
+    },
+    "C3630": {
+      "ticker": "AOS",
+      "company": "A. O. Smith",
+      "meetings": ["KeyBanc 10:30am"]
+    },
+    "C4925": {
+      "ticker": "TT",
+      "company": "Trane Technologies",
+      "meetings": ["KeyBanc 2:00pm"]
+    },
+    "C6107": {
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "meetings": ["KeyBanc 10:00am", "Baird 11:00am", "DA Davidson TBD"]
+    }
+  },
+  "companies": [
+    {"name": "Modine Manufacturing", "ticker": "MOD", "booth": "C6107"},
+    {"name": "A. O. Smith", "ticker": "AOS", "booth": "C3630"},
+    {"name": "Carrier Global", "ticker": "CARR", "booth": "C1717"},
+    {"name": "Watts Water Technologies", "ticker": "WTS", "booth": "C3338"},
+    {"name": "Trane Technologies", "ticker": "TT", "booth": "C4925"},
+    {"name": "Lennox International", "ticker": "LII", "booth": "C3618"},
+    {"name": "Watsco Inc.", "ticker": "WSO", "booth": "TBD"},
+    {"name": "AAON Inc.", "ticker": "AAON", "booth": "TBD"},
+    {"name": "Rheem Manufacturing", "ticker": "Rheem", "booth": "TBD"}
+  ]
+}
